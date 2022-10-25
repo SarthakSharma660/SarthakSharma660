@@ -8,4 +8,4 @@
 SarthakSharma660/SarthakSharma660 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-[](https://holopin.me/sarthaksharma660)](https://holopin.io/@sarthaksharma660)
+[![@sarthaksharma660's Holopin board](https://holopin.me/sarthaksharma660)](https://holopin.io/@sarthaksharma660)
